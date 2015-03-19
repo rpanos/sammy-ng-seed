@@ -1,6 +1,6 @@
-# This is a demo of Angular skills utilizing SVG
+# This is a seed project
 
-The original purpose was to programmatically turn line segments into arcs.  Eventually, these line segments are to be a part of text drawn in SVG.
+It still needs work
 
 ### Running the app during development
 
